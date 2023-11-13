@@ -34,8 +34,7 @@ To check for updates and update, run the following command:
 ### Installation one line:
 
 ```
-apt update && apt upgrade && cd && pkg install git -y && git clone https://github.com/rafsanmahi15/Anonymous && cd Anonymous && ls &&
-Anonymous.py
+apt update && apt upgrade && cd && pkg install git -y && git clone https://github.com/rafsanmahi15/Anonymous && cd Anonymous && ls && python Anonymous.py
 
 ```
 
