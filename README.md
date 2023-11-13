@@ -24,7 +24,10 @@ Website🌎: ❔❔❔❔ <br>
 Instagram : https://www.instagram.com/FARHAN-MUH-TASIM/ <br>
 <br>
 <br>
-
+### tool unstall 
+```
+rm -rf Anonymous
+```
 ### How to update Anonymous
 To check for updates and update, run the following command:
 ```
